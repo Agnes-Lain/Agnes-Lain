@@ -9,7 +9,7 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
 - 🔭 I’m currently working on 
     - a small gamer platform
     - an e-commerce shop sample
-    - help to fix some bugs of an app "Side-ninja" and add gitup sign-up feature for it
+    - help to fix some bugs of "side-ninja" and develop few features for it.(platforms for sideprojects).
     
 - 🌱 I’m currently learning 
     - react
