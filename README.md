@@ -7,13 +7,14 @@ I love coding, even if it drives me crazy sometimes🤯...but when I find the so
 But the world of code is like an ocean here 🌊 , we never know how deep and wide it can be...well, I try to dive a bit each day to find out a pixel of it 🍰 ...it will take me quite times I guess, but the good news is...I will never get bord 🌈
 
 - 🔭 I’m currently working on 
-    - a small gamer platform
-    - an e-commerce shop sample
+    - a social gamer platform to test the use of API with stimulus controllers.
+    - an e-commerce shop sample with Spree / Solidus
     - help to fix some bugs of "side-ninja" and develop few features for it.(platforms for sideprojects).
     
 - 🌱 I’m currently learning 
-    - react
-    - tests for rails
+    - Python, to prepare a Data Science bootcamp from January.
+    - tests for rails.
+    - Ajax tricks for rails, with stimulus controller, async/await, etc...
     - things catch my eyes from newsletter or forums...
     
 - 🤔 I’m looking for help with almost everthing I don't understand, and a job 
