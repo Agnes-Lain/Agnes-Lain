@@ -7,7 +7,7 @@ I love coding, even if it drives me crazy sometimes🤯...but when I find the so
 But the world of code is like an ocean here 🌊 , we never know how deep and wide it can be...well, I try to dive a bit each day to find out a pixel of it 🍰 ...it will take me quite times I guess, but the good news is...I will never get bord 🌈
 
 - 🔭 I’m currently working on 
-    - a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination...
+    - https://gameclan.herokuapp.com/ a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination...
     - an e-commerce shop sample with Spree / Solidus
     - help to fix some bugs of "side-ninja" and develop few features for it.(platforms for sideprojects).
     
