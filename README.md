@@ -8,18 +8,21 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
 
 - 🔭 I’m currently working on 
     - https://gameclan.herokuapp.com/ a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination...
-    - an e-commerce shop sample with Spree / Solidus
     - help to fix some bugs of "side-ninja" and develop few features for it.(platforms for sideprojects).
     
 - 🌱 I’m currently learning 
     - Python, to prepare a Data Science bootcamp from January.
     - tests for rails.
     - Ajax tricks for rails, with stimulus controller, async/await, etc...
+    - learn React 
+         excercise 1: https://agnes-lain.github.io/react-gifs/
     - things catch my eyes from newsletter or forums...
     
 - 🚀 my road map:
-    - learn React
     - Python webdevelop frameworks
+    - Code a sudoku react app for my 5 years son with cutter design (maybe with animals, letters, not just numbers ^ ^ )
+    - an e-commerce shop sample with Spree / Solidus
+    - A final project for my data science bootcamp
     - not sure after the data science bootcamps, what inspiration I will get and which path I will move on... will see :)
     
 - 🤔 I’m looking for help with almost everthing I don't understand, and a job 
