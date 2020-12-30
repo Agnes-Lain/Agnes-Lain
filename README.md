@@ -15,8 +15,8 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
     - tests for rails.
     - Ajax tricks for rails, with stimulus controller, async/await, etc...
     - learn React:
-         excercise 1: https://agnes-lain.github.io/react-gifs/;
-         excercise 2: https://agnes-lain.github.io/react-flats/;
+         - excercise 1: https://agnes-lain.github.io/react-gifs/
+         - excercise 2: https://agnes-lain.github.io/react-flats/
     - things catch my eyes from newsletter or forums...
     
 - 🚀 my road map:
