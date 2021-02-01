@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
 
-I am Yizhu, a freshly certificated web app developper from @Le Wagon summer bootcamp 441 🤩 (framework of Ruby on Rails)
+I am Yizhu, a freshly certificated web app developper from @Le Wagon summer bootcamp 441 🤩 (framework of Ruby on Rails).  Check my profile in details 👉  [HERE](https://agnes-lain.github.io/cv_yizhu_zong/)
 
 I love coding, even if it drives me crazy sometimes🤯...but when I find the solution and got things done, I feel like a super Mario has found his magic mushrooms 🌟 🌟
 
