@@ -11,7 +11,7 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
     - help to fix some bugs of "side-ninja" and develop few features for it.(platforms for sideprojects).
     
 - 🌱 I’m currently learning 
-    - Data Science bootcamps of le Wagon. Right now we are in the 2nd weeks of machine learning, very challenge indeed and hard. 
+    - Data Science bootcamps of le Wagon, very challenge indeed and hard. 
     - tests for rails.
     - Ajax tricks for rails, with stimulus controller, async/await, etc...
     - learn React:
