@@ -1,14 +1,14 @@
 ### Hi there 👋 
 
-I am Yizhu, a freshly certificated web app developper from @Le Wagon summer bootcamp 441 🤩 (framework of Ruby on Rails).  Check my profile in details 👉  [HERE](https://agnes-lain.github.io/cv_yizhu_zong/)
+I am Yizhu, a web app developper from @Le Wagon summer bootcamp 441 🤩 (framework of Ruby on Rails) with training of Data Science (Wagon batch #552). I was a professional buyer for international tradings for 15 years before made my move to become a developper. Check my profile in details 👉  [HERE](https://agnes-lain.github.io/cv_yizhu_zong/)
 
-I love coding, even if it drives me crazy sometimes🤯...but when I find the solution and got things done, I feel like a super Mario has found his magic mushrooms 🌟 🌟
+I love coding, even if it drives me crazy sometimes🤯...but when I find the solution and got things done, I feel like a super Mario has found his magic mushrooms 🍄 🌟 🌟
 
 But the world of code is like an ocean here 🌊 , we never know how deep and wide it can be...well, I try to dive a bit each day to find out a pixel of it 🍰 ...it will take me quite times I guess, but the good news is...I will never get bord 🌈
 
 - 🔭 I’m currently working on 
-    - https://gameclan.herokuapp.com/ a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination...
-    - help to fix some bugs of "side-ninja" and develop few features for it.(platforms for sideprojects).
+    - https://gameclan.herokuapp.com/ a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination, with an unsupervise learning prediction api(written in python) hosted on google cloud service, for game recommendation.
+
     
 - 🌱 I’m currently learning 
     - Data Science bootcamps of le Wagon, very challenge indeed and hard. 
