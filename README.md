@@ -23,7 +23,6 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
     - Python webdevelop frameworks
     - Code a sudoku react app for my 5 years son with cutter design (maybe with animals, letters, not just numbers ^ ^ )
     - an e-commerce shop sample with Spree / Solidus
-    - A final project for my data science bootcamp
     - not sure after the data science bootcamps, what inspiration I will get and which path I will move on... will see :)
     
 - 🤔 I’m looking for help with almost everthing I don't understand, and a job 
