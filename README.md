@@ -6,8 +6,7 @@ I love coding, even if it drives me crazy sometimes🤯...but when I find the so
 
 But the world of code is like an ocean here 🌊 , we never know how deep and wide it can be...well, I try to dive a bit each day to find out a pixel of it 🍰 ...it will take me quite times I guess, but the good news is...I will never get bord 🌈
 
-- 🎄 [ADVENT OF CODE challenges](https://adventofcode.com/) , is my new favorite for this cold December, am I getting 50 🌟 at Xmas day? We will see ^^\n
-    ➡️  [My solutions](https://github.com/Agnes-Lain/advent-of-code-2021)
+- 🎄 [ADVENT OF CODE challenges](https://adventofcode.com/) is my new favorite for this cold December, am I getting 50 🌟 at Xmas? We will see ^^ ➡️  [My solutions](https://github.com/Agnes-Lain/advent-of-code-2021)
 
 - 🔭 I’m currently working on 
     - https://gameclan.herokuapp.com/ a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination, with an unsupervise learning prediction api(written in python) hosted on google cloud service, for game recommendation.
