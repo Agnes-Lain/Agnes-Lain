@@ -13,17 +13,14 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
 
     
 - 🌱 I’m currently learning 
-    - Data Science bootcamps of le Wagon, very challenge indeed and hard. 
-    - tests for rails.
-    - Ajax tricks for rails, with stimulus controller, async/await, etc...
-    - learn React:
-         - excercise 1: https://agnes-lain.github.io/react-gifs/
-         - excercise 2: https://agnes-lain.github.io/react-flats/
-    - things catch my eyes from newsletter or forums...
+    - TDD.
+    - Set Rails as API with devise authentification.
+    - React-Native as front to combine with Rails on the back to create mobile app.
     
 - 🚀 my road map:
-    - Python webdevelop frameworks
-    - Code a sudoku react app for my 5 years son with cutter design (maybe with animals, letters, not just numbers ^ ^ )
-    - an e-commerce shop sample with Spree / Solidus
+    - Job hunting for PM
+    - Get back my developer level to launch some personal projects :
+        - Chatbot mobile app mvp
+        - Parenting mobile app mvp
     
-- 🤔 I’m looking for help with almost everthing I don't understand, and a job 
+- 🤔 I’m looking for help with almost everthing I don't understand 🙏💡🌟
