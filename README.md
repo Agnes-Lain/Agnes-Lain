@@ -6,6 +6,8 @@ I love coding, even if it drives me crazy sometimes🤯...but when I find the so
 
 But the world of code is like an ocean here 🌊 , we never know how deep and wide it can be...well, I try to dive a bit each day to find out a pixel of it 🍰 ...it will take me quite times I guess, but the good news is...I will never get bord 🌈
 
+<img src="https://www.codewars.com/users/Agnes-Lain/badges/large"/>
+
 - 🎄 [ADVENT OF CODE challenges](https://adventofcode.com/) is my new favorite for this cold December, am I getting 50 🌟 at Xmas? We will see ^^ ➡️  [My solutions](https://github.com/Agnes-Lain/advent-of-code-2021)
 
 - 🔭 A flagship project worked during my web development & Data Science bootcamps:
