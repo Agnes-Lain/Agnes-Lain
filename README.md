@@ -19,7 +19,7 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
     - React-Native as front to combine with Rails on the back to create mobile app.
     
 - 🚀 my road map:
-    - Job hunting for PM
+    - Job hunting for developer position
     - Get back my developer level to launch some personal projects :
         - Chatbot mobile app mvp
         - Parenting mobile app mvp
