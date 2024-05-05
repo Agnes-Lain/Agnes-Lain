@@ -17,8 +17,10 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
     - React.js
         - [A small math exercises generator for my son (CE2)](https://agnes-lain.github.io/react-math-primaire/) ♥️ 🚀 🧮
     - TDD.
-    - Set Rails as API with devise authentification.
+    - Set Rails as API with devise authentication.
+        - [Rails API with user authorisation & authentication control with tokens](https://github.com/Agnes-Lain/postit-api)
     - React-Native as front to combine with Rails on the back to create mobile app.
+        - [Simple mobile app to manage post-it with user authentication/session/tokens](https://github.com/Agnes-Lain/testProject)
     
 - 🚀 my road map:
     - Job hunting for developer position
