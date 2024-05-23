@@ -8,10 +8,9 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
 
 <a href="https://www.codewars.com/users/Agnes-Lain"><img src="https://www.codewars.com/users/Agnes-Lain/badges/large"/></a>
 
-- 🎄 [ADVENT OF CODE challenges](https://adventofcode.com/) is my new favorite for this cold December, am I getting 50 🌟 at Xmas? We will see ^^ ➡️  [My solutions](https://github.com/Agnes-Lain/advent-of-code-2021)
 
 - 🔭 A flagship project worked during my web development & Data Science bootcamps:
-    - https://gameclan.herokuapp.com/ a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination, with an unsupervise learning prediction api(written in python) hosted on google cloud service, for game recommendation.
+    - [Gamebook 🕹️ ](https://github.com/Agnes-Lain/Gamebook) a social gamer platform to test the use of API, ajax with stimulus controllers, stimulus controller with action cable controller combination, with an unsupervise learning prediction api(written in python) hosted on google cloud service, for game recommendation.
     
 - 🌱 I’m currently learning
     - React.js
@@ -28,4 +27,7 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
         - Chatbot mobile app mvp
         - Parenting mobile app mvp
     
+- 🎄 [ADVENT OF CODE challenges](https://adventofcode.com/) is my new favorite of December [My solutions](https://github.com/Agnes-Lain/advent-of-code-2021)
+
+  
 - 🤔 I’m looking for help with almost everthing I don't understand 🙏💡🌟
