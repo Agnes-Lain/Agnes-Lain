@@ -23,9 +23,8 @@ But the world of code is like an ocean here 🌊 , we never know how deep and wi
     
 - 🚀 my road map:
     - Job hunting for developer position
-    - Get back my developer level to launch some personal projects :
-        - Chatbot mobile app mvp
-        - Parenting mobile app mvp
+    - Get back my developer level to launch my personal project :
+        - An application for parents & their kids, developped by parent(s) like me, a single mom who lives with all the joys & difficulties with her son! 🧑‍🧒 ♥️ 🚀
     
 - 🎄 [ADVENT OF CODE challenges](https://adventofcode.com/) is my new favorite of December [My solutions](https://github.com/Agnes-Lain/advent-of-code-2021)
 
